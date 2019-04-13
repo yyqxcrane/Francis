@@ -1,0 +1,27 @@
+[
+    {
+        "typeId":1,
+        "typeName":"男生卫衣"
+    }, {
+        "typeId":2,
+        "typeName":"女士卫衣"
+    }, {
+        "typeId":3,
+        "typeName":"男士外套"
+    }, {
+        "typeId":4,
+        "typeName":"女士外套"
+    }, {
+        "typeId":5,
+        "typeName":"男士休闲裤"
+    }, {
+        "typeId":6,
+        "typeName":"男士牛仔裤"
+    }, {
+        "typeId":7,
+        "typeName":"女士连衣裙"
+    }, {
+        "typeId":8,
+        "typeName":"女士长裤"
+    }
+]
